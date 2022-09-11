@@ -1,0 +1,1 @@
+{"version":1,"defects":{"functionsTest::testMaxMin":3,"functionsTest::testSumArray":3},"times":{"functionsTest::testMaxMin":0.228,"functionsTest::testCreateArray":0.02,"functionsTest::testDoubleWeighted":0.002,"functionsTest::testSumArray":0.001,"functionsTest::testGetTotal":0.001}}
